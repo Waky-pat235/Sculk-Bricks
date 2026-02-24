@@ -1,0 +1,29 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "sculk_bricks:green_sculk_8_sculk"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:sculk",
+        "count": 8
+      },
+      {
+        "item": "minecraft:green_dye"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:sculk"
+      }
+    ],
+    "result": {
+      "item": "sculk_bricks:green_sculk",
+      "count": 8
+    }
+  }
+}

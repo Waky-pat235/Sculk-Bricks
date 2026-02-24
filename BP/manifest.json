@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+    "name": "§lSculk Bricks §7[1.0]",
+    "description": "§tDeveloped by §upat235 §tfor §dv26.1 ",
+		"uuid": "35f037a4-514f-4653-ac42-4c15810ca5bf",
+		"min_engine_version": [ 1, 21, 90 ],
+		"version": [ 1, 0, 0 ]
+	},
+	"modules": [
+		{
+			"description": "Behavior Pack Module",
+			"type": "data",
+			"uuid": "5daa2903-ebb9-4727-a233-1a2fc7fc4178",
+			"version": [ 1, 0, 0 ]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "27b920f8-b244-45f9-953d-eed387559ef7",
+			"version": [ 1, 0, 0 ]
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:block": {
+    "description": {
+      "identifier": "sculk_bricks:light_blue_sculk"
+    },
+    "components": {
+      "minecraft:display_name":"Light Blue Sculk",
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "light_blue_sculk",
+          "isotropic": true
+        }
+      },
+      "minecraft:loot": "loot_tables/blocks/light_blue_sculk.json",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 0.2
+      },
+      "tag:minecraft:is_hoe_item_destructible": {}
+    }
+  }
+}

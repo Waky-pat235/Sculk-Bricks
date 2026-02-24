@@ -1,0 +1,26 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:crafting_items_catalog": {
+        "categories": [
+            {
+                "category_name": "nature",
+                "groups": [
+                    {
+                        "group_identifier": {
+                            "icon": "sculk_bricks:white_sculk",
+                            "name": "sculk_bricks:itemGroup.name.decorative_sculk"
+                        },
+                        "items": ["sculk_bricks:white_sculk", "sculk_bricks:light_gray_sculk", "sculk_bricks:gray_sculk", "sculk_bricks:black_sculk", "sculk_bricks:brown_sculk", "sculk_bricks:red_sculk", "sculk_bricks:orange_sculk", "sculk_bricks:yellow_sculk", "sculk_bricks:lime_sculk", "sculk_bricks:green_sculk", "sculk_bricks:cyan_sculk", "sculk_bricks:light_blue_sculk", "sculk_bricks:blue_sculk", "sculk_bricks:purple_sculk", "sculk_bricks:magenta_sculk", "sculk_bricks:pink_sculk"]
+                    },
+                    {
+                        "group_identifier": {
+                            "icon": "sculk_bricks:gray_sculk_bricks",
+                            "name": "sculk_bricks:itemGroup.name.sculk_bricks"
+                        },
+                        "items": ["sculk_bricks:white_sculk_bricks", "sculk_bricks:light_gray_sculk_bricks", "sculk_bricks:gray_sculk_bricks", "sculk_bricks:black_sculk_bricks", "sculk_bricks:brown_sculk_bricks", "sculk_bricks:red_sculk_bricks", "sculk_bricks:orange_sculk_bricks", "sculk_bricks:yellow_sculk_bricks", "sculk_bricks:lime_sculk_bricks", "sculk_bricks:green_sculk_bricks", "sculk_bricks:cyan_sculk_bricks", "sculk_bricks:light_blue_sculk_bricks", "sculk_bricks:blue_sculk_bricks", "sculk_bricks:purple_sculk_bricks", "sculk_bricks:magenta_sculk_bricks", "sculk_bricks:pink_sculk_bricks"]
+                    }
+                ]
+            }
+        ]
+    }
+}

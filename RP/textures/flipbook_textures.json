@@ -1,0 +1,167 @@
+[
+    {
+        "flipbook_texture": "textures/blocks/black_sculk",
+        "atlas_tile": "black_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/blue_sculk",
+        "atlas_tile": "blue_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/brown_sculk",
+        "atlas_tile": "brown_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/cyan_sculk",
+        "atlas_tile": "cyan_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/gray_sculk",
+        "atlas_tile": "gray_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/green_sculk",
+        "atlas_tile": "green_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/light_blue_sculk",
+        "atlas_tile": "light_blue_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/light_gray_sculk",
+        "atlas_tile": "light_gray_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/lime_sculk",
+        "atlas_tile": "lime_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/magenta_sculk",
+        "atlas_tile": "magenta_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/orange_sculk",
+        "atlas_tile": "orange_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/orange_sculk",
+        "atlas_tile": "orange_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/pink_sculk",
+        "atlas_tile": "pink_sculk",
+        "ticks_per_frame": 20
+    },   
+    {
+        "flipbook_texture": "textures/blocks/purple_sculk",
+        "atlas_tile": "purple_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/red_sculk",
+        "atlas_tile": "red_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/white_sculk",
+        "atlas_tile": "white_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/yellow_sculk",
+        "atlas_tile": "yellow_sculk",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/black_sculk_bricks",
+        "atlas_tile": "black_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/blue_sculk_bricks",
+        "atlas_tile": "blue_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/brown_sculk_bricks",
+        "atlas_tile": "brown_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/cyan_sculk_bricks",
+        "atlas_tile": "cyan_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/gray_sculk_bricks",
+        "atlas_tile": "gray_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/green_sculk_bricks",
+        "atlas_tile": "green_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/light_blue_sculk_bricks",
+        "atlas_tile": "light_blue_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/light_gray_sculk_bricks",
+        "atlas_tile": "light_gray_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/lime_sculk_bricks",
+        "atlas_tile": "lime_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/magenta_sculk_bricks",
+        "atlas_tile": "magenta_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/orange_sculk_bricks",
+        "atlas_tile": "orange_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/pink_sculk_bricks",
+        "atlas_tile": "pink_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/purple_sculk_bricks",
+        "atlas_tile": "purple_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/red_sculk_bricks",
+        "atlas_tile": "red_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/white_sculk_bricks",
+        "atlas_tile": "white_sculk_bricks",
+        "ticks_per_frame": 20
+    },
+    {
+        "flipbook_texture": "textures/blocks/yellow_sculk_bricks",
+        "atlas_tile": "yellow_sculk_bricks",
+        "ticks_per_frame": 20
+    }
+]

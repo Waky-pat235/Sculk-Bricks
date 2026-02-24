@@ -1,0 +1,102 @@
+{
+  "resource_pack_name": "Sculk Bricks RP",
+  "texture_name": "atlas.terrain",
+  "texture_data": {
+        "black_sculk": {
+            "textures": "textures/blocks/black_sculk"
+        },
+        "blue_sculk": {
+            "textures": "textures/blocks/blue_sculk"
+        },
+        "brown_sculk": {
+            "textures": "textures/blocks/brown_sculk"
+        },
+        "cyan_sculk": {
+            "textures": "textures/blocks/cyan_sculk"
+        },
+        "gray_sculk": {
+            "textures": "textures/blocks/gray_sculk"
+        },
+        "green_sculk": {
+            "textures": "textures/blocks/green_sculk"
+        },
+        "light_blue_sculk": {
+            "textures": "textures/blocks/light_blue_sculk"
+        },
+        "light_gray_sculk": {
+            "textures": "textures/blocks/light_gray_sculk"
+        },
+        "lime_sculk": {
+            "textures": "textures/blocks/lime_sculk"
+        },
+        "magenta_sculk": {
+            "textures": "textures/blocks/magenta_sculk"
+        },
+        "orange_sculk": {
+            "textures": "textures/blocks/orange_sculk"
+        },
+        "pink_sculk": {
+            "textures": "textures/blocks/pink_sculk"
+        },
+        "purple_sculk": {
+            "textures": "textures/blocks/purple_sculk"
+        },
+        "red_sculk": {
+            "textures": "textures/blocks/red_sculk"
+        },
+        "white_sculk": {
+            "textures": "textures/blocks/white_sculk"
+        },
+        "yellow_sculk": {
+            "textures": "textures/blocks/yellow_sculk"
+        }, 
+        "black_sculk_bricks": {
+            "textures": "textures/blocks/black_sculk_bricks"
+        },
+        "blue_sculk_bricks": {
+            "textures": "textures/blocks/blue_sculk_bricks"
+        },
+        "brown_sculk_bricks": {
+            "textures": "textures/blocks/brown_sculk_bricks"
+        },
+        "cyan_sculk_bricks": {
+            "textures": "textures/blocks/cyan_sculk_bricks"
+        },
+        "gray_sculk_bricks": {
+            "textures": "textures/blocks/gray_sculk_bricks"
+        },
+        "green_sculk_bricks": {
+            "textures": "textures/blocks/green_sculk_bricks"
+        },
+        "light_blue_sculk_bricks": {
+            "textures": "textures/blocks/light_blue_sculk_bricks"
+        },
+        "light_gray_sculk_bricks": {
+            "textures": "textures/blocks/light_gray_sculk_bricks"
+        },
+        "lime_sculk_bricks": {
+            "textures": "textures/blocks/lime_sculk_bricks"
+        },
+        "magenta_sculk_bricks": {
+            "textures": "textures/blocks/magenta_sculk_bricks"
+        },
+        "orange_sculk_bricks": {
+            "textures": "textures/blocks/orange_sculk_bricks"
+        },
+        "pink_sculk_bricks": {
+            "textures": "textures/blocks/pink_sculk_bricks"
+        },
+        "purple_sculk_bricks": {
+            "textures": "textures/blocks/purple_sculk_bricks"
+        },
+        "red_sculk_bricks": {
+            "textures": "textures/blocks/red_sculk_bricks"
+        },
+        "white_sculk_bricks": {
+            "textures": "textures/blocks/white_sculk_bricks"
+        },
+        "yellow_sculk_bricks": {
+            "textures": "textures/blocks/yellow_sculk_bricks"
+        }
+    }
+}

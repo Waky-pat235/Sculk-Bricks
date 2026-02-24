@@ -1,0 +1,99 @@
+{
+    "format_version": "1.21.40",
+    "sculk_bricks:black_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:blue_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:brown_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:cyan_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:gray_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:green_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:light_blue_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:light_gray_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:lime_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:magenta_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:orange_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:pink_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:purple_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:red_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:white_sculk": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:yellow_sculk": {
+        "sound": "sculk"
+    },
+        "sculk_bricks:black_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:blue_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:brown_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:cyan_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:gray_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:green_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:light_blue_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:light_gray_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:lime_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:magenta_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:orange_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:pink_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:purple_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:red_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:white_sculk_bricks": {
+        "sound": "sculk"
+    },
+    "sculk_bricks:yellow_sculk_bricks": {
+        "sound": "sculk"
+    }
+}

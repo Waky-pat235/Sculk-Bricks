@@ -1,0 +1,29 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sculk_bricks:magenta_sculk_bricks_sculk"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "bb",
+      "bb"
+    ],
+    "key": {
+      "b": {
+        "item": "sculk_bricks:magenta_sculk"
+      }
+    },
+    "unlock": [
+      {
+        "item": "minecraft:sculk"
+      }
+    ],
+    "result": {
+      "item": "sculk_bricks:magenta_sculk_bricks",
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "sculk_bricks:light_blue_sculk_8_dec"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "tag": "sculk_bricks:sculk_blocks",
+        "count": 8
+      },
+      {
+        "item": "minecraft:light_blue_dye"
+      }
+    ],
+    "unlock": [
+      {
+        "item": "minecraft:sculk"
+      }
+    ],
+    "result": {
+      "item": "sculk_bricks:light_blue_sculk",
+      "count": 8
+    }
+  }
+}

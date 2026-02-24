@@ -1,0 +1,21 @@
+{
+  "format_version": "1.26.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sculk_bricks:cyan_sculk_bricks",
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:block_placer": {
+        "block": "sculk_bricks:cyan_sculk_bricks"
+      },
+      "minecraft:tags": {
+        "tags": [
+          "sculk_bricks:sculk_brick_blocks"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "format_version": "1.26.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "sculk_bricks:black_sculk_8_dec"
+        },
+        "tags": ["crafting_table"],
+        "ingredients": [
+            {"tag": "sculk_bricks:sculk_blocks","count": 8},
+            {"item": "minecraft:black_dye"}
+        ],
+        "unlock": [{"item": "minecraft:sculk"}],
+        "result": {"item": "sculk_bricks:black_sculk", "count": 8}
+    }
+}
