@@ -6,6 +6,6 @@
 <img width="496" height="272" alt="sculk_to_bricks" src="https://github.com/user-attachments/assets/0ff93682-552f-4492-9098-b9ddec091689" />
 <img width="496" height="272" alt="sculk_dying" src="https://github.com/user-attachments/assets/8bf00a52-a987-44e3-aa5d-06c18bc672b9" />
 <img width="496" height="272" alt="sculk_redying" src="https://github.com/user-attachments/assets/bac8c138-1a5a-42a8-9d01-7aca93db9395" />
-<br>Notes:
-- All decorative sculk blocks drop themselves without silk touch
-- Cyan uses the vanilla sculk texture to make working with regular sculk more convenient
+<br><br>Notes:
+<br>- All decorative sculk blocks drop themselves without silk touch
+<br>- Cyan uses the vanilla sculk texture to make working with regular sculk more convenient
